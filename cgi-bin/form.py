@@ -15,7 +15,7 @@ if (key == "не задано") or (message == "не задано"):
             <html>
             <head>
                 <meta charset="utf-8">
-                <title>Лаборатория шифрования PyDevLab</title>
+                <title>Лаборатория расшифровки PyDevLab</title>
             </head>
             <body>""")
     print("""<h3><p>Ошибка! Вы не заполнили все поля. Вернитесь <a href="../index.html">назад</a> и попробуйте заново.</p></h3>""")
